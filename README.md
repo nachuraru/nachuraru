@@ -1,4 +1,6 @@
-### Hi there 👋
+### NACHURARU / NATURAL / N
+
+![a gif of a misty forest](https://raw.githubusercontent.com/nachuraru/nachuraru/main/misty.webp "a gif of a misty forest")
 
 <!--
 **nachuraru/nachuraru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
